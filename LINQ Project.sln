@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Project", "LINQ Project\LINQ Project.csproj", "{F0480C5C-8E75-4305-AF95-0E3A829691EC}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp2SqlLibrary", "..\..\ClonedGregRepo\CSharp2Sql-DNBC7\CSharp2SqlLibrary\CSharp2SqlLibrary.csproj", "{9D56FA87-568C-491D-9BE9-D2F885986C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0480C5C-8E75-4305-AF95-0E3A829691EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0480C5C-8E75-4305-AF95-0E3A829691EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0480C5C-8E75-4305-AF95-0E3A829691EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D56FA87-568C-491D-9BE9-D2F885986C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D56FA87-568C-491D-9BE9-D2F885986C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D56FA87-568C-491D-9BE9-D2F885986C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D56FA87-568C-491D-9BE9-D2F885986C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
